@@ -84,8 +84,8 @@ async function loadExamples() {
   if (!examples.length) return;
   document.getElementById("examples").innerHTML = `
     <table>
-      <tr><th>Question</th><th>Model answer</th><th>Correct answer</th></tr>
-      ${examples.map(e => `<tr><td>${e.question}</td><td>${e.model_answer}</td><td>${e.correct_answer}</td></tr>`).join("")}
+      <tr><th>Question</th><th>Model answer</th><th>Correct answer</th><th>Status</th></tr>
+      ${examples.map(e => `<tr><td>${e.question}</td><td>${e.model_answer}</td><td>${e.correct_answer}</td><td>${e.status || ""}</td></tr>`).join("")}
     </table>`;
 }
 
