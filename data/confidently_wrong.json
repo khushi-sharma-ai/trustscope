@@ -1,0 +1,187 @@
+[
+  {
+    "question": "Which rank of the RAF is equivalent to Major in the British Army?",
+    "model_answer": "Air Commodore",
+    "correct_answer": "squadron leader page history"
+  },
+  {
+    "question": "In the novel ‘Watership Down’, Yona is what type of creature?",
+    "model_answer": "Fox.",
+    "correct_answer": "hedgepig"
+  },
+  {
+    "question": "In which UK city is Great Victoria Street railway station",
+    "model_answer": "London",
+    "correct_answer": "belfast united kingdom"
+  },
+  {
+    "question": "The Melrose Cup is awarded in which ball sport?",
+    "model_answer": "Cricket",
+    "correct_answer": "rugby sevens"
+  },
+  {
+    "question": "Judith Keppel was the first winner of the top prize on which UK programme?",
+    "model_answer": "QVC Antiques Roadshow",
+    "correct_answer": "who wants to be millionaire"
+  },
+  {
+    "question": "Which musical features the song 'Second Hand Rose'?",
+    "model_answer": "West Side Story",
+    "correct_answer": "funny girl"
+  },
+  {
+    "question": "What was the surname of the 19th president of the USA who had the first christian name Rutherford ?",
+    "model_answer": "Abraham Lincoln",
+    "correct_answer": "café quarter"
+  },
+  {
+    "question": "In the British Army, which commissioned rank is indicated by a crown on each shoulder?",
+    "model_answer": "Lieutenant General",
+    "correct_answer": "major rank"
+  },
+  {
+    "question": "Which member of Led Zeppelin appeared at Glastonbury this year with his current band The Sensational Space Shifters?",
+    "model_answer": "Jimmy Page appeared.",
+    "correct_answer": "robbie plant"
+  },
+  {
+    "question": "\"Nicknamed the \"\"She Wolf of France\"\", Isabella the wife of Edward II, was from which French royal house?\"",
+    "model_answer": "The House of Anjou.",
+    "correct_answer": "la maison de france"
+  },
+  {
+    "question": "What is the name of the line separating the numerator and denominator of a fraction if it is written as a diagonal line?",
+    "model_answer": "Horizontal bar.",
+    "correct_answer": "solidus"
+  },
+  {
+    "question": "Which planet did Gustav Holst describe as the ‘Winged Messenger’?",
+    "model_answer": "Mars",
+    "correct_answer": "merdcury"
+  },
+  {
+    "question": "Which singer's real name is Elaine Bookbinder?",
+    "model_answer": "Elton John",
+    "correct_answer": "we ve got tonight castle"
+  },
+  {
+    "question": "In 1985 who became the first man to run the 1500 metres in less than 3 mins 30 secs?",
+    "model_answer": "Carl Lewis",
+    "correct_answer": "steve cram"
+  },
+  {
+    "question": "Which English monarch was the last to be born in France?",
+    "model_answer": "Charles II",
+    "correct_answer": "edward iv king of england"
+  },
+  {
+    "question": "For which 1960 film did Billy Wilder become the first person to win three Oscars for the same film?",
+    "model_answer": "Sunset Boulevard.",
+    "correct_answer": "apartment"
+  },
+  {
+    "question": "Which motor company owns the truck maker, Scania?",
+    "model_answer": "Volvo Trucks operates Scania.",
+    "correct_answer": "saab disambiguation"
+  },
+  {
+    "question": "What was founded by Ferdinand II of Aragon and Isabella I of Castile to keep Catholic orthodoxy as the major religion of their kingdoms?",
+    "model_answer": "Catholic Monarchs (Isabella I and Ferdinand II)",
+    "correct_answer": "spanish inquisiton"
+  },
+  {
+    "question": "The first session of the United Nations General Assembly was convened in January 1946, in which city?",
+    "model_answer": "New York City",
+    "correct_answer": "london uk"
+  },
+  {
+    "question": "in which US State is the Chambers Bay Course, the venue for the 2015 US Open Golf Championship?",
+    "model_answer": "New York",
+    "correct_answer": "washington amtrak station"
+  },
+  {
+    "question": "What was the name of John Bunyan's autobiography, written in Bedford Gaol and published in 1666?",
+    "model_answer": "The Pilgrim's Progress",
+    "correct_answer": "grace abounding"
+  },
+  {
+    "question": "The UK TV series, All Ceatures Great and Small, concerned what area of activity?",
+    "model_answer": "British comedy crime series.",
+    "correct_answer": "doctor of veterinary medicine"
+  },
+  {
+    "question": "Which millionaire introduced a free school milk programme in Chicago to combat rickets?",
+    "model_answer": "John D. Rockefeller Jr.",
+    "correct_answer": "scarface capone"
+  },
+  {
+    "question": "\"What movie featured the song \"\"The Time Warp\"\"?\"",
+    "model_answer": "Ghostbusters",
+    "correct_answer": "rhps"
+  },
+  {
+    "question": "In the Sudanese wars, which British general won the Battle of Omdurman?",
+    "model_answer": "Lord Kitchener",
+    "correct_answer": "sir herbert kitchener"
+  },
+  {
+    "question": "Who had a top ten hit in 1988 with Valentine?",
+    "model_answer": "Wham!",
+    "correct_answer": "t pau disambiguation"
+  },
+  {
+    "question": "November 10, 1775 at Tun Tavern, Philadelphia, saw the official birth of branch of the US armed forces?",
+    "model_answer": "First Continental Congress.",
+    "correct_answer": "us marines corps"
+  },
+  {
+    "question": "In the 1833 Factory Act in Britain what was the minimum age of a child allowed to work in a factory?",
+    "model_answer": "Ten years old.",
+    "correct_answer": "nine years"
+  },
+  {
+    "question": "The world was first aware of the Chernobyl disaster after detectors were triggered at a nuclear plant in which country?",
+    "model_answer": "Ukraine",
+    "correct_answer": "ulf bergman"
+  },
+  {
+    "question": "\"Didier Delsalle who wrote the following words confirming his May 14, 2005 achievement became the first person to land a helicopter where? \"\"No, nobody went out of the helicopter as I was alone and quite busy to stabilize the helicopter on this windy ...! The terrain characteristics prevent any full landing on the ... as you can see on the videos and only a hover landing...\"\"\"",
+    "model_answer": "a cliff",
+    "correct_answer": "summit of mount everest"
+  },
+  {
+    "question": "There were three major sieges in the Boer War – Mafeking, Kimberley and which other?",
+    "model_answer": "Rorke's Drift.",
+    "correct_answer": "ladysmith"
+  },
+  {
+    "question": "In which modern day country was Gustav Mahler born?",
+    "model_answer": "Austria",
+    "correct_answer": "iso 3166 1 cz"
+  },
+  {
+    "question": "The word barber - meaning a men's/boy's hairdresser - is from Latin meaning?",
+    "model_answer": "\"trimmer\"",
+    "correct_answer": "beards"
+  },
+  {
+    "question": "Who was the first commoner to have a state funeral in Britain?",
+    "model_answer": "Winston Churchill.",
+    "correct_answer": "horatio nelson 1st viscount nelson 1st duke of bronté"
+  },
+  {
+    "question": "The Wang River is in which Asian country?",
+    "model_answer": "China",
+    "correct_answer": "thailand"
+  },
+  {
+    "question": "\"Which make of car is advertised under the slogan \"\"Vorsprung Durch Technik\"\"?\"",
+    "model_answer": "Mercedes-Benz",
+    "correct_answer": "audi automobilwerke gmbh"
+  },
+  {
+    "question": "Who was the first husband of Catherine of Aragon?",
+    "model_answer": "Henry VIII",
+    "correct_answer": "prince arthur disambiguation"
+  }
+]

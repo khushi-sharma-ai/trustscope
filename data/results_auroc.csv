@@ -1,0 +1,6 @@
+signal,pooled,within,between
+token log-prob (mean),0.835,0.711,0.836
+answer agreement,0.871,0.688,0.872
+semantic entropy (neg),0.874,0.5,0.874
+answer probe (hidden state),0.817,0.708,0.817
+difficulty probe (question),0.689,0.501,0.69
